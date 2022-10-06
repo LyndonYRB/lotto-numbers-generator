@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.java": "java",
+    "*.html": "django-html",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "__split_buffer": "cpp",
+    "string": "cpp",
+    "vector": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
